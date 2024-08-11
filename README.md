@@ -5,10 +5,10 @@
 ## About Me
 - 🔭 I’m currently working on enhancing my NLP project.
 - 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate on any Data Science related project.
-- 💬 Ask me about my Data Science journey.
+- 👯 I’m looking to collaborate on any Data Science project especially NLP related project.
+- 💬 Ask me about my Data Science journey and anything related to NLP.
 - 📫 How to reach me: danielyap.tech@gmail.com.
-- ⚡ Fun fact: I am unpredictably playful.
+- ⚡ Fun fact: I am unpredictably playful, life is fun!
 
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielyaptech&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&line_height=20&theme=radical)
