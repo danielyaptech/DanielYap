@@ -4,9 +4,9 @@
 
 ## About Me
 - 🔭 I’m currently working on enhancing my NLP project.
-- 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate on any Data Science project especially NLP related project.
-- 💬 Ask me about my Data Science journey and anything related to NLP.
+- 🌱 I’m currently sharpening Machine Learning and learning Deep Learning.
+- 👯 I’m looking to collaborate on any Data Science project related to Machine Learning or Deep Learning.
+- 💬 Ask me about my Data Science journey and anything related to Machine Learning and Natural Language Processing.
 - 📫 How to reach me: danielyap.tech@gmail.com.
 - ⚡ Fun fact: I am unpredictably playful, life is fun!
 
