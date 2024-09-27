@@ -1,6 +1,6 @@
 # Hello, I'm Daniel Yap!
 
-👋 Welcome to my GitHub profile! I'm an Electrical & Electronic Engineer with a passion to be a Data Scientist. Learn more about me on my [LinkedIn](https://www.linkedin.com/in/daniel-yap-b916aaa3/) profile.
+👋 Welcome to my GitHub profile! I'm an Electrical & Electronic Engineer with a passion to be a Data Scientist. I have completed a Data Science Analytic bootcamp course in August 2024 and currently looking for a career transition into Data Science field. Learn more about me on my [LinkedIn](https://www.linkedin.com/in/daniel-yap-b916aaa3/) profile.
 
 ## About Me
 - 🔭 I’m currently working on enhancing my NLP project.
